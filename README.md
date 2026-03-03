@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                                                                   -->
-<!--                        ASTRAMINDS                           -->
+<!--                        ASTRAMINDS                                 -->
 <!--              Intelligent Infrastructure. Engineered.               -->
 <!--                                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -12,7 +12,7 @@
 <!-- ─────────────── TYPING ANIMATION ─────────────── -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=70&lines=AI+Systems+%E2%94%82+Distributed+Architecture+%E2%94%82+Automation;Building+the+ViViD+Ecosystem+for+Africa+%F0%9F%8C%8D" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=70&lines=AI+Systems+%E2%94%82+Distributed+Architecture+%E2%94%82+Big+Data;Frontier+AI+%E2%94%82+Autonomous+Economic+Infrastructure+%F0%9F%8C%8D" />
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ We don't just write software. We architect **resilient, autonomous systems** des
 ```
 Founded   : 2023
 HQ        : Harare, Zimbabwe
-Focus     : AI · FinTech · Distributed Systems
+Focus     : AI · Big Data · Distributed Systems
 Status    : Building in production
 ```
 
@@ -73,27 +73,193 @@ principles:
 
 <br/>
 
-<!-- ─────────────── ECOSYSTEM ─────────────── -->
+<!-- ─────────────── IDENTITY ─────────────── -->
 
-<h2 align="center">🏗 The ViViD Ecosystem</h2>
+<h2 align="center">🧠 What AstraMinds Really Is</h2>
 
-<p align="center"><i>A unified digital platform engineered for the African market</i></p>
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NOT_A_DEV_SHOP-0d1117?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/NOT_AN_AGENCY-0d1117?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AN_INTELLIGENT_INFRASTRUCTURE_LAB-38bdf8?style=for-the-badge&labelColor=0d1117" />
+</p>
 
 <br/>
 
 <div align="center">
 
-| System | Description | Stack |
-|:---:|:---|:---|
-| **ViViDCart** 🛒 | Multi-vendor marketplace with wallet infrastructure | `React` `FastAPI` `PostgreSQL` |
-| **ViViDGo** 🚗 | Mobility, taxi & last-mile delivery intelligence | `Flutter` `Python` `Redis` |
-| **ViViDPOS** 💳 | Smart retail point-of-sale with offline-first sync | `Flutter` `PHP` `SQLite` |
-| **ViViDPay** 💰 | Payment orchestration — EcoCash, OneMoney, cards | `FastAPI` `Redis` `PostgreSQL` |
-| **AstraAI** 🧠 | Conversational AI platform & autonomous agents | `Python` `LLMs` `Vector DBs` |
-| **Klipp** ✂️ | Content & media processing engine | `Python` `FFmpeg` `React` |
-| **Lunity** 🌙 | Community & social platform | `React` `Node.js` `PostgreSQL` |
+> *Design, build, and deploy resilient digital systems that enable economies to scale.*
+> 
+> Not apps. Not websites. **Infrastructure.**
 
 </div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Operating at the intersection of:
+
+- 🧠 **Artificial Intelligence** — Decision intelligence, not chatbot gimmicks
+- ⚙️ **Distributed Systems** — Fault-tolerant, consensus-driven architectures
+- 💳 **Financial Infrastructure** — Idempotent payment pipelines & ledger integrity
+- 📊 **Massive Data Analytics** — Real-time processing at continental scale
+- 🚚 **Mobility & Logistics** — Autonomous routing and supply chain intelligence
+- 🌍 **Emerging Market Digitization** — Structural problems, not UI problems
+
+</td>
+<td width="50%" valign="top">
+
+#### What separates us:
+
+```
+1. Systems thinking
+2. Infrastructure mindset
+3. Automation obsession
+4. Deterministic engineering
+5. Emerging market focus
+```
+
+We solve **structural economic problems** — digitizing informal markets, building autonomous financial rails, and engineering self-healing systems for environments where failure is catastrophic.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ─────────────── FRONTIER DOMAINS ─────────────── -->
+
+<h2 align="center">🔬 Frontier Research Domains</h2>
+
+<br/>
+
+<div align="center">
+
+| Domain | Focus Areas |
+|:---:|:---|
+| **Distributed System Resilience** 🛰 | Fault-tolerant architectures · Consensus protocols · Exactly-once pipelines · High-availability financial systems |
+| **AI for Emerging Economies** 🌍 | Offline-capable inference · Lightweight edge AI · Informal sector digitization · AI-assisted logistics routing |
+| **Big Data & Analytics** 📊 | Real-time event streaming · Predictive decision models · Vendor scoring · Economic pattern analysis at scale |
+| **Autonomous Infrastructure** ⚡ | Self-healing systems · Event-driven automation · AI-powered business optimization · Agent-based execution |
+| **Economic Digitization** 💳 | Wallet ecosystems · Digital trust frameworks · Cross-border payment rails · Informal market integration |
+| **Frontier AI** 🧬 | LLM fine-tuning · Multi-agent orchestration · Inference optimization · Autonomous decision engines |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ─────────────── AI SYSTEMS ─────────────── -->
+
+<h2 align="center">🤖 AstraAI — Decision Intelligence Engine</h2>
+
+<p align="center"><i>Not chatbot gimmicks. Actual decision intelligence.</i></p>
+
+<br/>
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   ◆ Business automation engine                                       │
+│   ◆ Agent-based execution systems                                    │
+│   ◆ Predictive decision models                                       │
+│   ◆ Frontier inference pipelines                                     │
+│   ◆ Autonomous orchestration layer                                   │
+│   ◆ AI-powered supply chain optimization                             │
+│   ◆ Real-time fraud detection & vendor credit scoring                │
+│   ◆ Big data ingestion & analytics at scale                          │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ─────────────── FRONTIER VISION ─────────────── -->
+
+<h2 align="center">🛰 The Frontier Vision — Autonomous Economic Infrastructure</h2>
+
+<br/>
+
+<div align="center">
+
+> AI agents optimizing businesses automatically. Delivery routes auto-optimized in real-time.
+> Payment fraud auto-detected. Vendor creditworthiness auto-scored. Inventory auto-rebalanced.
+> Entire ecosystems self-adjusting.
+> 
+> **That's not a marketplace. That's a digital economy brain.**
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+#### Phase 1 — Now
+```
+Build distributed
+system-first
+infrastructure.
+
+Deploy AstraAI.
+
+Create stable backend
+architecture.
+```
+
+</td>
+<td width="33%" align="center">
+
+#### Phase 2 — Scale
+```
+Payment infrastructure
+integration.
+
+Cross-border logistics.
+
+AI-powered supply
+chain optimization.
+
+Big data pipelines.
+```
+
+</td>
+<td width="33%" align="center">
+
+#### Phase 3 — Frontier
+```
+AI research lab.
+
+Distributed systems lab.
+
+Economic infrastructure
+builder.
+
+Government-level
+infrastructure partner.
+```
+
+</td>
+</tr>
+</table>
+
+<p align="center"><br/><i>Not a startup. A systems engineering company that shapes digital economies.</i></p>
 
 <br/>
 
@@ -154,7 +320,7 @@ principles:
   &nbsp;
   <img src="https://img.shields.io/badge/Active_Projects-12+-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Ecosystem_Products-7-38bdf8?style=for-the-badge&logo=buffer&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Frontier_Domains-6-38bdf8?style=for-the-badge&logo=buffer&logoColor=white&labelColor=0d1117" />
   &nbsp;
   <img src="https://img.shields.io/badge/Uptime-99.9%25-22c55e?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117" />
 </p>
@@ -176,6 +342,9 @@ principles:
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,postgres,redis,sqlite,git,github&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka,tensorflow,pytorch,grafana,prometheus&theme=dark" />
 </p>
 
 <br/>
@@ -201,6 +370,8 @@ principles:
 │   ◆ Secure payment orchestration (local + global rails)         │
 │   ◆ Edge-ready backend systems                                  │
 │   ◆ Observable, self-healing infrastructure                     │
+│   ◆ Big data ingestion & stream processing                      │
+│   ◆ Multi-agent AI coordination                                 │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
